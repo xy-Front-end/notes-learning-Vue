@@ -1,5 +1,7 @@
 # Vue
 
+参考视频：https://www.bilibili.com/video/BV15741177Eh
+
 # 学习重点目标
 
 ## Vue组件
@@ -343,3 +345,14 @@ module配置易错：loder是从右边到左边加载
 ### 处理图片
 
 最重要的URL有可能需要配置publicPath:"dist/"
+
+### 处理ES6->ES5
+
+webpack把es6写法转为es5
+
+使用label
+
+### webpack配置vue
+
+
+
